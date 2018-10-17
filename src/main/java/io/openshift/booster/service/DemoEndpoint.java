@@ -8,7 +8,7 @@ import javax.ws.rs.QueryParam;
 
 import org.springframework.stereotype.Component;
 
-@Path("/greeting")
+@Path("/demo")
 @Component
 public class DemoEndpoint {
     @GET
